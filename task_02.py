@@ -1,4 +1,4 @@
-__author__ = 'Johnny'#!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """Truthy If Statements."""
 

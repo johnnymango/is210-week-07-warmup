@@ -5,6 +5,7 @@
 import decimal
 decimal.getcontext().prec = 3
 
+
 def lexicographics(to_analyze):
     """This function calculates the max, min and average values of strings.
 
@@ -37,4 +38,3 @@ def lexicographics(to_analyze):
         myvalues.append(values)
     return max(myvalues), min(myvalues), sum(myvalues) / decimal.Decimal(len(
         lines))
-

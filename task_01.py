@@ -27,6 +27,3 @@ def fibonacci(maxint):
         fiblist.append(myb)
         mya, myb = myb, mya + myb
     return fiblist
-
-
-
